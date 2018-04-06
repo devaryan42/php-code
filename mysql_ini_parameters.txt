@@ -1,0 +1,10 @@
+key_buffer_size = 20M
+sort_buffer_size = 20M
+read_buffer = 2M
+write_buffer = 2M
+
+max_allowed_packet = 1600M
+key_buffer_size = 16000M
+net_buffer_length = 8K
+read_rnd_buffer_size = 512K
+explicit_defaults_for_timestamp = TRUE
