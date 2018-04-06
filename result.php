@@ -1,5 +1,4 @@
 <?php
 
-if (isset($_POST['submit'])){
-    echo $_POST['file'];
-}
+
+echo $_POST['file'];
