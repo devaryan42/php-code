@@ -1,0 +1,7 @@
+expose_php = On
+max_input_vars = 2000
+html_errors = On
+variables_order = "GPCS"
+default_mimetype = "text/html"
+mysql.trace_mode = Off
+mysql.default_password =
